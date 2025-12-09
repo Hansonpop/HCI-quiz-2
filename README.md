@@ -19,3 +19,6 @@ What we need:
 Navigation:-Sidebar/Drawer, Tabs, and Breadcrumbs
 Feedback and status:-Spinner/Loaders
 Layout and Structure:-Responsive Breakpoints, Dashboard panels, Tables, Pagination and Accordion and Collapsible
+
+Evaluation Table-
+https://binusianorg-my.sharepoint.com/personal/gilbert_orlando_binus_ac_id/_layouts/15/guestaccess.aspx?share=Ebmlq0XEh59BncD2EbgFyHMBFtYDPO_RlI3u4zOsoLcigg&email=bagus.manuaba%40binus.ac.id&e=3cMdrN
